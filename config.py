@@ -1,0 +1,3 @@
+import os
+
+OPENAI_API_KEY="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"
